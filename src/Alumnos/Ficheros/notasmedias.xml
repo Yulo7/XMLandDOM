@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotasMedias modulo="Acceso a datos">
+  <Alumno>
+    <DNI>69852141T</DNI>
+    <NotaMedia>72.5</NotaMedia>
+  </Alumno>
+  <Alumno>
+    <DNI>569872454R</DNI>
+    <NotaMedia>77.5</NotaMedia>
+  </Alumno>
+  <Alumno>
+    <DNI>3652478017H</DNI>
+    <NotaMedia>73.25</NotaMedia>
+  </Alumno>
+  <MediaTotal>74.41</MediaTotal>
+</NotasMedias>
